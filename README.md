@@ -1,7 +1,3 @@
-Here’s a much more humanized, conversational version of your README based on the machine coding round description you shared:
-
----
-
 # Fashion Lookbook – Machine Coding Round (Tectonic)
 
 Thanks for taking the time to check out this project! This was built as part of a **Machine Coding Interview** for Tectonic, where the goal was to create a working fashion lookbook experience from scratch.
@@ -88,13 +84,4 @@ If you want to try it out live, I’ve hosted it here:
 As per Tectonic’s instructions:
 
 -   This repository is public and contains everything needed to review the code.
--   If hosting was required, the link is provided above.
-
----
-
-Would you like me to:
-
-1. **Make this README even more visually structured** (with emojis, sections, and a clean modern layout),
-2. Or keep it more **straightforward and professional**, like what most engineers submit in machine coding rounds?
-
-Also, should I make it **feel like you’re personally telling the story** (first-person tone: “I built…”) or keep it neutral (e.g., “This project implements…")?
+-   It's hosted on vercel
